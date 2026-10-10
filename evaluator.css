@@ -1,0 +1,4 @@
+/* Keep the evaluator focused on working evidence, not a standalone rubric panel. */
+#rubric,.rubric-section{display:none!important}
+.metric-strip>div:last-child small{font-size:9px}
+.metric-strip>div:last-child strong{font-size:27px}
